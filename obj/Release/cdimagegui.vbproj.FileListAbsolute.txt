@@ -1,0 +1,5 @@
+D:\cpigu\Downloads\Projet1.NET\obj\Release\Interop.ADOX.dll
+D:\cpigu\Downloads\Projet1.NET\obj\Release\Interop.DMVIEW2Lib.dll
+D:\cpigu\Downloads\Projet1.NET\obj\Release\Interop.MSScriptControl.dll
+D:\cpigu\Downloads\Projet1.NET\obj\Release\Interop.Microsoft.Office.Core.dll
+D:\cpigu\Downloads\Projet1.NET\obj\Release\AxInterop.MSScriptControl.dll
